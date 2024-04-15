@@ -11,3 +11,5 @@ gitignore es para ignorar archivos o carpetas
 git log --oneline
 git diff 
 git diff --staged
+git checkout -b (para crear una rama)
+git checkout para moverse entre ramas
