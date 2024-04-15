@@ -1,0 +1,7 @@
+Commandos de git:
+ls /-a
+cd 
+pwd 
+mkdir 
+git init
+code . 
