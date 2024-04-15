@@ -8,3 +8,6 @@ code .
 .git commit -m " "
 .git status -s (M= modificado/ ?? = Todavia no fue agregado)
 gitignore es para ignorar archivos o carpetas
+git log --oneline
+git diff 
+git diff --staged
