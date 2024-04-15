@@ -5,3 +5,5 @@ pwd
 mkdir 
 git init
 code . 
+.git commit -m " "
+.git status -s (M= modificado/ ?? = Todavia no fue agregado)
