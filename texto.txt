@@ -13,3 +13,5 @@ git diff
 git diff --staged
 git checkout -b (para crear una rama)
 git checkout para moverse entre ramas
+git push 'para guardar todo'
+git push -u origin ramaC(la rama puede ser otra)
